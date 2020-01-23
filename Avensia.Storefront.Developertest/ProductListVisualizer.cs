@@ -90,6 +90,7 @@ namespace Avensia.Storefront.Developertest
                 }
                 cntr++;
             }
+            Console.WriteLine("\n\t\tEND OF PAGE: " + selectedpage);
             // end Managing json file
 
 
